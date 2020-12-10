@@ -3,8 +3,10 @@
 
 I am 2️⃣1️⃣ years old and I am a Full Stack Javascript developer💻.<br>
 I ❤ technology and I love sharing my knowledge about it. <br>
-I would like you to know some of my projects.<br>
+I would like you to know some of my projects.⚡<br>
 You can find me in:
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodrijuarez/)
 
 #### :computer: Programming languages and tools: 
 <p>
@@ -22,5 +24,5 @@ You can find me in:
 <code><img width="10%" src="https://raw.githubusercontent.com/reactjs/redux/master/logo/logo-title-dark.png"></code>
 <code><img width="10%" src="https://www.webrexstudio.com/wp-content/uploads/2019/06/Node-js.jpg"></code>
 <code><img width="10%" src="https://www.filepicker.io/api/file/94gIW7R2QcaovjJVVuI9"></code>
-<code><img width="10%" src="https://findnerd.s3.amazonaws.com/imagedata/8007/8007.png"></code>
+<code><img width="10%" src="https://i.pinimg.com/originals/83/1c/14/831c14fcebd3f448a0c3cbc0f69534fc.jpg"></code>
 </p>
