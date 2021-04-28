@@ -1,7 +1,7 @@
 ### Hello world 👋
 ### My name is Rodrigo !👦🏻
 
-I am 2️⃣1️⃣ years old and I am a Full Stack Javascript developer💻.<br>
+I am 2️⃣2️⃣ years old and I am a Full Stack Javascript developer💻.<br>
 I ❤ technology and I love sharing my knowledge about it. <br>
 I would like you to know some of my projects.⚡<br>
 You can find me in:
