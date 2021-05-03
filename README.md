@@ -1,13 +1,13 @@
 ### Hello world 👋
-### My name is Rodrigo !👦🏻
+### My name is Rodrigo ! 👦🏻👨🏻‍💻
 
-I am 2️⃣2️⃣ years old and I am a Full Stack Javascript developer💻.<br>
+I am 2️⃣2️⃣ years old and I am a Front-End Javascript Developer💻.<br>
 I ❤ technology and I love sharing my knowledge about it. <br>
 I would like you to know some of my projects.⚡<br>
 You can find me in:
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodrijuarez/)
-
+- Linkedin: (https://www.linkedin.com/in/rodrijuarez/)
+- Website: (https://rodrigojuarez.netlify.app/) 
 #### :computer: Programming languages and tools: 
 <p>
 
