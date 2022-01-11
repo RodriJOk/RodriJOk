@@ -1,9 +1,9 @@
 ### Hola Mundo !! 👋
 ### Mi nombre es Rodrigo ! 
 
-Tengo 2️⃣2️⃣ años y soy Desarrollador Web Front-End y Javascript Developer
-Yo ❤ la tecnologia y me encanta compartir mis conocimientos al respecto. 
-Me gustaría que conocieras algunos de mis proyectos.⚡
+Tengo 2️⃣2️⃣ años y soy Desarrollador Web Front-End y Javascript Developer💻. <br>
+Yo ❤ la tecnologia y me encanta compartir mis conocimientos al respecto. <br>
+Me gustaría que conocieras algunos de mis proyectos.⚡<br>
 Podes encontrame en: 
 
 - Linkedin: (https://www.linkedin.com/in/rodrijuarez/)
