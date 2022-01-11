@@ -1,5 +1,5 @@
 ### Hola Mundo !! 👋
-### Mi nombre es Rodrigo ! 
+### Mi nombre es Rodrigo ! 👦🏻👨🏻‍💻
 
 Tengo 2️⃣2️⃣ años y soy Desarrollador Web Front-End y Javascript Developer💻. <br>
 Yo ❤ la tecnologia y me encanta compartir mis conocimientos al respecto. <br>
