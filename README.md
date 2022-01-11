@@ -1,7 +1,18 @@
-### Hello world 👋
+### Hola Mundo !! 👋
+### Mi nombre es Rodrigo ! 
+
+Tengo 2️⃣2️⃣ años y soy Desarrollador Web Front-End y Javascript Developer
+Yo ❤ la tecnologia y me encanta compartir mis conocimientos al respecto. 
+Me gustaría que conocieras algunos de mis proyectos.⚡
+Podes encontrame en: 
+
+- Linkedin: (https://www.linkedin.com/in/rodrijuarez/)
+- Website: (https://rodrigojuarez.netlify.app/) 
+
+### Hello world !! 👋
 ### My name is Rodrigo ! 👦🏻👨🏻‍💻
 
-I am 2️⃣2️⃣ years old and I am a Front-End Javascript Developer💻.<br>
+I am 2️⃣2️⃣ years old and I am a Front-End Web Developer and Javascript Developer💻.<br>
 I ❤ technology and I love sharing my knowledge about it. <br>
 I would like you to know some of my projects.⚡<br>
 You can find me in:
