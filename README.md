@@ -1,5 +1,5 @@
 ### Hola Mundo !! 👋
-### Mi nombre es Rodrigo ! 👦🏻👨🏻‍💻
+### Mi nombre es Alan Rodrigo Juarez ! 👦🏻👨🏻‍💻
 
 Tengo 2️⃣2️⃣ años y soy Desarrollador Web Front-End y Javascript Developer💻. <br>
 Yo ❤ la tecnologia y me encanta compartir mis conocimientos al respecto. <br>
@@ -10,7 +10,7 @@ Podes encontrame en:
 - Website: (https://rodrigojuarez.netlify.app/) 
 
 ### Hello world !! 👋
-### My name is Rodrigo ! 👦🏻👨🏻‍💻
+### My name is Alan Rodrigo Juarez ! 👦🏻👨🏻‍💻
 
 I am 2️⃣2️⃣ years old and I am a Front-End Web Developer and Javascript Developer💻.<br>
 I ❤ technology and I love sharing my knowledge about it. <br>
