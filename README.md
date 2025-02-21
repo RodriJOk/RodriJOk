@@ -17,4 +17,3 @@ Sharing the knowledge that I have acquired in my work experience with the commun
 
 - Linkedin: (https://www.linkedin.com/in/rodrijuarez/)
 - Website: (https://rodrigojuarez.dev) 
-#### :computer: Programming languages and tools: 
