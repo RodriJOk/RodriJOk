@@ -10,7 +10,7 @@ Compartir el conocimiento que he adquirido en mi experiencia laboral con la comu
 
 ### Hello ! 👋🏻
 ### My name is Alan Rodrigo Juarez, I am 26 years old and I am a Full Stack Web Developer. 🧑🏻‍💻
-I have more than 3 years of experience in the sector that has allowed me to know and capitalize on various forms of work and has allowed me to be part of very exciting projects.
+I have more than 4 years of experience in the sector that has allowed me to know and capitalize on various forms of work and has allowed me to be part of very exciting projects.
 
 I love Web Development, and I constantly strive to delve deeper into concepts related to the sector.
 Sharing the knowledge that I have acquired in my work experience with the community is something that I really like, and I consider that one way to test my knowledge is by teaching. That is why I like to research and write articles, which are then published on my personal website. ✍🏻
