@@ -1,6 +1,6 @@
 ### Hola ! 👋🏻
 ### Me llamo Alan Rodrigo Juarez, tengo 26 años y soy un Desarrollador Web Full Stack. 🧑🏻‍💻
-Cuento con más de 3 años de experiencia en el sector que me han permitido conocer y capitalizar diversas formas de trabajo y me ha permitido formar parte de proyectos muy emocionantes. 
+Cuento con más de 4 años de experiencia en el sector que me han permitido conocer y capitalizar diversas formas de trabajo y me ha permitido formar parte de proyectos muy emocionantes. 
 
 Me encanta el Desarrollo Web, y constantemente me esfuerzo por profundizar en conceptos relacionados al sector. 
 Compartir el conocimiento que he adquirido en mi experiencia laboral con la comunidad es algo que me gusta mucho, y considero que una manera de poner a prueba mis conocimientos, es enseñando. Es por eso que me gusta investigar y redactar artículos, que luego son publicados en mi website personal. ✍🏻
